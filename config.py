@@ -115,13 +115,11 @@ if is_production:
 	#maps["desertland"]["key"]="jayson_desertland_copy"
 	pass
 
-game_version=803
+game_version=805
 SALES=4+5+388+5101+125/20 #donation+manual+macos+steam+sales
 update_notes=[
-    "Halloween Event!",
-    "Last Update [October 1st]",
-    "Merged PR's from Github live.",
-    ".luckm Fix"
+	"Happy Holidays!",
+	"Last Update [1st of December]",
 ]
 ip_to_subdomain=environment.IP_TO_SUBDOMAIN
 HTTPS_MODE=True #IMPORTANT: converts server IP's to subdomain urls at create_server_api [17/11/18]
